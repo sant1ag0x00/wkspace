@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 28 Feb 2022 22:36:12 +0100</lastBuildDate><atom:link href="http://weltraumkatzen.space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Der Beginn einer Ära</title>
-      <link>http://weltraumkatzen.space/posts/test/</link>
+      <link>http://weltraumkatzen.space/posts/genesis_post/</link>
       <pubDate>Mon, 28 Feb 2022 22:36:12 +0100</pubDate>
       
-      <guid>http://weltraumkatzen.space/posts/test/</guid>
+      <guid>http://weltraumkatzen.space/posts/genesis_post/</guid>
       <description>Das hier ist der Anfang meiner spacetastischen Reise, hier wird alles veröffentlicht was ich und coolere Leute mit mehr Talent so alles machen.</description>
     </item>
     
@@ -22,16 +22,7 @@
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0100</pubDate>
       
       <guid>http://weltraumkatzen.space/posts/kontakt/</guid>
-      <description>E-Mail: tim AT weltraumkatzen DOT space PGP: https://fckaf.de/00c Mastodon: @Sant1ag0x00@chaos.social</description>
-    </item>
-    
-    <item>
-      <title>Artsy Art von coolen Leuten</title>
-      <link>http://weltraumkatzen.space/posts/artsy_art/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://weltraumkatzen.space/posts/artsy_art/</guid>
-      <description>Hier einige Beiträge von Leuten zum Thema Weltraumkatzen. </description>
+      <description>E-Mail: tim AT weltraumkatzen DOT spacePGP: https://fckaf.de/00cMastodon: @Sant1ag0x00@chaos.</description>
     </item>
     
   </channel>

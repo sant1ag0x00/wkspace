@@ -16,5 +16,23 @@
       <description>Das hier ist der Anfang meiner spacetastischen Reise, hier wird alles veröffentlicht was ich und coolere Leute mit mehr Talent so alles machen.</description>
     </item>
     
+    <item>
+      <title>Artsy Art von coolen Leuten</title>
+      <link>http://weltraumkatzen.space/posts/art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://weltraumkatzen.space/posts/art/</guid>
+      <description>Hier einige Beiträge von Leuten zum Thema Weltraumkatzen. </description>
+    </item>
+    
+    <item>
+      <title>Artsy Art von coolen Leuten</title>
+      <link>http://weltraumkatzen.space/posts/artsy_art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://weltraumkatzen.space/posts/artsy_art/</guid>
+      <description>Hier einige Beiträge von Leuten zum Thema Weltraumkatzen. </description>
+    </item>
+    
   </channel>
 </rss>

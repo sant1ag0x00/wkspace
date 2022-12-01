@@ -1,0 +1,4 @@
+baseURL = "http://weltraumkatzen.space/"
+languageCode = "en-us"
+title = "Weltraumkatzen.space"
+theme = "base16"

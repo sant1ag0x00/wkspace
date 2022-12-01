@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Weltraumkatzen.space</title>
+    <link>http://weltraumkatzen.space/posts/</link>
+    <description>Recent content in Posts on Weltraumkatzen.space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Feb 2022 22:36:12 +0100</lastBuildDate><atom:link href="http://weltraumkatzen.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Der Beginn einer Ära</title>
+      <link>http://weltraumkatzen.space/posts/test/</link>
+      <pubDate>Mon, 28 Feb 2022 22:36:12 +0100</pubDate>
+      
+      <guid>http://weltraumkatzen.space/posts/test/</guid>
+      <description>Das hier ist der Anfang meiner spacetastischen Reise, hier wird alles veröffentlicht was ich und coolere Leute mit mehr Talent so alles machen.</description>
+    </item>
+    
+  </channel>
+</rss>
